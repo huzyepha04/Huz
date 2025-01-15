@@ -1,0 +1,13 @@
+New Train Data:
+BOGIE ID: 11
+Adults:
+Name: ghgh, Age: 55, Gender: ttt, Occupation: rrr, Qualification: yy, NIC: 455
+Kids:
+----------------------------------
+----------------------------------
+New Train Data:
+BOGIE ID: 22
+Adults:
+Kids:
+----------------------------------
+----------------------------------
